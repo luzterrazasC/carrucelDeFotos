@@ -12,6 +12,7 @@
 		13F3E12E24B50237001EE67F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 13F3E12C24B50237001EE67F /* Main.storyboard */; };
 		13F3E13024B50239001EE67F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13F3E12F24B50239001EE67F /* Assets.xcassets */; };
 		13F3E13324B50239001EE67F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 13F3E13124B50239001EE67F /* LaunchScreen.storyboard */; };
+		13F3E13B24B6296C001EE67F /* ImagesCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 13F3E13A24B6296C001EE67F /* ImagesCollectionViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		13F3E12F24B50239001EE67F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		13F3E13224B50239001EE67F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		13F3E13424B50239001EE67F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		13F3E13A24B6296C001EE67F /* ImagesCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImagesCollectionViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 			children = (
 				13F3E12824B50237001EE67F /* AppDelegate.swift */,
 				13F3E12A24B50237001EE67F /* ViewController.swift */,
+				13F3E13A24B6296C001EE67F /* ImagesCollectionViewCell.swift */,
 				13F3E12C24B50237001EE67F /* Main.storyboard */,
 				13F3E12F24B50239001EE67F /* Assets.xcassets */,
 				13F3E13124B50239001EE67F /* LaunchScreen.storyboard */,
@@ -136,6 +139,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				13F3E12B24B50237001EE67F /* ViewController.swift in Sources */,
+				13F3E13B24B6296C001EE67F /* ImagesCollectionViewCell.swift in Sources */,
 				13F3E12924B50237001EE67F /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
